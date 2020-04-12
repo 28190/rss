@@ -1,0 +1,45 @@
+body {
+	margin: 0px 30px
+}
+
+header.main {
+	font-size: 17px;
+	width: 100%;
+	background-color: #dfdfdf;
+}
+
+header.main h1 {
+	text-align: center;
+	font-family: monaco, Consolas, Lucida Console, monospace;
+	font-size: 90px;
+	margin: 0%;
+}
+
+autor {
+	padding-left: 1em;
+}
+
+email {
+	padding-left: 1em;
+}
+
+fecha {
+	padding-left: 1em;
+}
+
+main {
+	background-color: #f3f3f3;
+}
+
+img.main {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	margin-bottom: 15px;
+	padding-top: 20px;
+}
+
+img.extra {
+  float: right;
+}
