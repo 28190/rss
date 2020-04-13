@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Noticias de la cuarentena</title> <!-- Etiqueta obligatoria -->
+		<link>http://iessierradeguara.com/</link> <!-- Etiqueta obligatoria -->
+		<description>Noticias de actualidad durante los días de aislamiento.</description> <!-- Etiqueta obligatoria -->
+		<category>News</category>
+		<image>
+			<url>https://28190.github.io/rss/Recursos/icono_noticias.png</url> <!-- Etiqueta obligatoria -->
+			<title>Noticias de la cuarentena</title> <!-- Etiqueta obligatoria -->
+			<link>http://iessierradeguara.com/</link> <!-- Etiqueta obligatoria -->
+			<description>Icono de nocitias</description>
+			<width>90</width>
+			<height>90</height>
+		</image>
+		<language>es-ES</language>
+		<pubDate>Mon, 13 Apr 2020 06:59:34 +0200</pubDate>
+		<lastBuildDate>Mon, 13 Apr 2020 07:12:01 +0200</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Notepad++ 7.8.5</generator>
+		<managingEditor>antonio.cepero@iessierradeguara.com (Antonio Cepero)</managingEditor>
+		<webMaster>28190@iessierradeguara.com (Javier Calvo)</webMaster>
+		<item>
+			<title>Coronavirus ataca de nuevo</title> <!-- Etiqueta obligatoria (debe haber un título o una descripción al menos para que valide) -->
+			<description>Informe sobre la expansión del coronavirus y posibles futuros de la raza humana.</description> <!-- Etiqueta obligatoria (debe haber un título o una descripción al menos para que valide) -->
+			<link>https://28190.github.io/rss/n1_coronavirus.html</link>
+			<guid isPermaLink="false">n1</guid>
+			<author>1@iessierradeguara.com (Laura Carnero)</author>
+			<category domain="http://dmoztools.net/">News/Current Events</category>
+			<pubDate>Thu, 02 Apr 2020 09:32:45 +0200</pubDate>
+		</item>
+		<item>
+			<title>Cartelera online</title>
+			<description>Netflix GRATIS durante todo un mes!!</description>
+			<link>https://28190.github.io/rss/n2_cartelera.html</link>
+			<guid isPermaLink="false">n2</guid>
+			<source url="http://www.sensacine.com/">SensaCine</source>
+			<author>2@iessierradeguara.com (Oscar Tirado)</author>
+			<category>News</category>
+			<category>Movies</category>
+			<category>TV Shows</category>
+			<pubDate>Fri, 03 Apr 2020 17:24:03 +0200</pubDate>
+		</item>
+		<item>
+			<title>Ejercicio en casa</title>
+			<description>Ejercicios para trabajar musculatura en casa sin materiales.</description>
+			<link>https://28190.github.io/rss/n3_ejercicios.html</link>
+			<guid isPermaLink="false">n3</guid>
+			<author>3@iessierradeguara.com (Ana Maya)</author>
+			<category>Fitness</category>
+			<category>Tutorial</category>
+			<pubDate>Mon, 06 Apr 2020 12:47:29 +0200</pubDate>
+		</item>
+		<item>
+			<title>Dario de un polizón</title>
+			<description>Un joven nos cuenta su experiencia de la cuarentena viviendo en casa de su suegra</description>
+			<link>https://28190.github.io/rss/n4_diario.html</link>
+			<guid isPermaLink="false">n4</guid>
+			<author>4@iessierradeguara.com (Lucas Dasilva)</author>
+			<category domain="http://dmoztools.net/">Home/Entertaining</category>
+			<pubDate>Tue, 07 Apr 2020 08:06:30 +0200</pubDate>
+		</item>
+		<item>
+			<title>Estudiantes en cuarentena</title>
+			<description>Informe sobre a vida de los estudiantes durante la cuarentena.</description>
+			<link>https://28190.github.io/rss/n5_deberes.html</link>
+			<guid isPermaLink="false">n5</guid>
+			<author>5@iessierradeguara.com (Victoria Cantillo)</author>
+			<category domain="http://dmoztools.net/">Reference/Education/Distance Learning</category>
+			<pubDate>Wed, 08 Apr 2020 18:53:18 +0200</pubDate>
+		</item>
+		<item>
+			<title>World of Warcraft</title>
+			<description>Review del conocido juego World of Warcraft</description>
+			<link>https://28190.github.io/rss/n6_wow.html</link>
+			<guid isPermaLink="false">n6</guid>
+			<author>6@iessierradeguara.com (Jesus Bordes)</author>
+			<category domain="http://dmoztools.net/">Games/Video Games/Roleplaying/Massive Multiplayer/Online/World of Warcraft/Mists of Pandaria</category>
+			<pubDate>Thu, 09 Apr 2020 10:40:22 +0200</pubDate>
+		</item>
+		<item>
+			<title>Discord</title>
+			<description>Review de la conocida plataforma de comunicación, Discord.</description>
+			<link>https://28190.github.io/rss/n7_discord.html</link>
+			<guid isPermaLink="false">n7</guid>
+			<author>7@iessierradeguara.com (Elena Parra)</author>
+			<category>Chat</category>
+			<category>Discord</category>
+			<pubDate>Fri, 10 Apr 2020 19:25:40 +0200</pubDate>
+		</item>
+	</channel>
+</rss>
